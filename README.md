@@ -1,4 +1,8 @@
-# 🚀 Getting started with Strapi
+# 🚀 Backend starter for simple Blog app using Strapi and Postgres DB
+
+View frontend blog app that connects to this backend - [here](https://github.com/adedaniel/strapi-blog-frontend)
+
+### Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
 
