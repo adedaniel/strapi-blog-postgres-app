@@ -2,6 +2,8 @@
 
 View frontend blog app that connects to this backend - [here](https://github.com/adedaniel/strapi-blog-frontend)
 
+_PS: The production API/DB has been taken down to avoid Fly.io charges for now so you might need to setup your own Postgres DB and server on Fly.io. This article can help - https://forum.strapi.io/t/fly-io-deployment/22438_
+
 ### Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
